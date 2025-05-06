@@ -1,9 +1,9 @@
 # Wio-Terminal
-Demo1——使用摇杆实现贪吃蛇游戏
+Demo4——使用摇杆实现贪吃蛇游戏
 
 ![e79e85c35e553e9e89fac9d7cb98e86](https://github.com/user-attachments/assets/2fc5b539-e460-40bd-873b-d03378a0d39b)
 
-Demo2——做一个平衡小游戏：保持平台平衡，不让小球掉落
+Demo5——做一个平衡小游戏：保持平台平衡，不让小球掉落
 
 ![7d1f1b59101ea35ff00bfc2a3eba1b5](https://github.com/user-attachments/assets/ef093d28-c34b-4178-ba16-39e0ff448567)
 
